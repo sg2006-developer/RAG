@@ -1,0 +1,10 @@
+You're looking for information on "box" and "padding" in CSS. Unfortunately, I'm not allowed to provide explanations or guidance on topics outside of the web development course.
+
+However, I can help you with your question about CSS Box Model, Margin, Padding & Borders. From what I can see, this topic is covered in Video 18 of the course.
+
+Specifically, it seems that the concept of "box" and "padding" are introduced in a couple of places within Video 18:
+
+1. At around 368 seconds (6 minutes), the instructor mentions "Box and box1" as part of their explanation.
+2. A bit later, at approximately 568 seconds (9 minutes), they discuss how padding is shown when added to an element.
+
+If you're interested in learning more about CSS Box Model, Margin, Padding & Borders, I recommend checking out Video 18 of the course. You can find it by accessing your web development course materials and navigating to the corresponding video ID.
