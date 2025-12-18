@@ -12,7 +12,7 @@ that answers user queries using video transcripts and semantic search.
 
 \## RAG Pipeline Architecture
 
-!\[RAG Pipeline](docs/rag\_pipeline.png)
+!\[RAG Pipeline](docs/rag.png)
 
 
 
